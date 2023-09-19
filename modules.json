@@ -1,0 +1,11 @@
+{
+    "name": "tayabsoomro/nf-test",
+    "homePage": "https://github.com/tayabsoomro/nf-test",
+    "repos": {
+        "https://github.com/nf-core/modules.git": {
+            "modules": {
+                "nf-core": {}
+            }
+        }
+    }
+}
